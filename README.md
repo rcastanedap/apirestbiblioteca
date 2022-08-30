@@ -30,6 +30,7 @@
 # npm install mysql  
 # npm install dotenv
 # npm install bcrypt
+# npm i jsonwebtoken
 
 
 
