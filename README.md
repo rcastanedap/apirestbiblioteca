@@ -23,10 +23,11 @@
 
 
 # RUTAS PARA CRUD DE TRACKS
-# http://localhost:3000/tracks GET
-# http://localhost:3000/tracks POST
-# http://localhost:3000/tracks/:ID PUT
-# http://localhost:3000/tracks/:ID DELETE
+# http://localhost:3000/api/tracks GET
+# http://localhost:3000/api/tracks/create POST
+# http://localhost:3000/api/tracks/update PUT
+# http://localhost:3000/api/tracks/id GET POR ID
+# http://localhost:3000/api/tracks DELETE
 # MI RAMA
 
 # LIBRERIAS
