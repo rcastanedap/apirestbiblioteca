@@ -26,6 +26,11 @@
 # http://localhost:3000/tracks/:ID DELETE
 # MI RAMA
 
+# LIBRERIAS
+# npm install mysql  
+# npm install dotenv
+# npm install bcrypt
+
 
 
 
