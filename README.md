@@ -5,18 +5,21 @@
 
 
 # RUTAS PARA CRUD DE USUARIOS
-# http://localhost:3000/usuarios GET
-# http://localhost:3000/usuarios POST
-# http://localhost:3000/usuarios/:ID PUT
-# http://localhost:3000/usuarios/:ID DELETE
+# http://localhost:3000/api/usuarios GET
+# http://localhost:3000/api/usuarios/create POST
+# http://localhost:3000/api/usuarios/update PUT
+# http://localhost:3000/api/usuarios/id GET POR ID
+# http://localhost:3000/api/usuarios DELETE
+# http://localhost:3000/api/usuarios/login LOGIN se envia el email y password
 
 
 
-# RUTAS PARA CRUD DE ARCHIVOS
-# http://localhost:3000/archivos GET
-# http://localhost:3000/archivos POST
-# http://localhost:3000/archivos/:ID PUT
-# http://localhost:3000/archivos/:ID DELETE
+# RUTAS PARA CRUD DE LIBROS
+# http://localhost:3000/api/libros GET
+# http://localhost:3000/api/libros/create POST
+# http://localhost:3000/api/libros/update PUT
+# http://localhost:3000/api/libros/id GET POR ID
+# http://localhost:3000/api/libros DELETE
 
 
 # RUTAS PARA CRUD DE TRACKS
@@ -31,6 +34,9 @@
 # npm install dotenv
 # npm install bcrypt
 # npm i jsonwebtoken
+
+
+
 
 
 
